@@ -37,9 +37,9 @@ footer, header, hgroup, menu, nav, section {
 }
 
 @media screen and (min-width: 768px) {
-body {
-    width: 100%;
-    margin: auto;
+    body {
+        width: 100%;
+        margin: auto;
     }
 }
 
@@ -50,12 +50,7 @@ body {
     }
 }
 
-
-div {
-    float: left;
-}
-
-nav, aside, li, p {
+nav, aside, li, p, div, section {
     float: left;
     text-align: center;
 }

@@ -31,20 +31,18 @@ footer, header, hgroup, menu, nav, section {
 
 @media screen and (min-width: 480px)  {
     body {
-        width: 480px;
+        width: 100%;
         margin: auto;
     }
 }
 
 @media screen and (min-width: 768px)  {
 body {
-    width: 960px;
+    width: 100%;
     margin: auto;
     }
 }
-main {
-    width: 100%;
-}
+
 
 div {
     float: left;
@@ -55,6 +53,6 @@ nav, aside, li, p {
     text-align: center;
 }
 
-ul {    
+div {    
     list-style-type: none;
 }

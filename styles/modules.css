@@ -3,33 +3,32 @@
     nav {
         height: 75px;
         line-height: 75px;
-        width: 480px;
+        width: 100%;
         background-color: #CCDBDC;
     }
 
     #b {
         height: 150px;
         line-height: 150px;    
-        width: 480px;
         background-color: #80CED7;
     }
 
     #top_row p{
         height: 125px;
         line-height: 125px;
-        width: 480px;
+        width: 50%;
     }
 
     #bottom_row li {
         height: 250px;
         line-height: 250px;
-        width: 240px;
+        width: 50%;
     }
 
     #i {
         height: 80px;
         line-height: 80px;
-        width: 480px;
+        width: 100%;
         background-color: #263D42;
     }
 }
@@ -37,33 +36,33 @@
     nav {
         height: 100px;
         line-height: 100px;
-        width: 960px;
+        width: 100%;
         background-color: #CCDBDC;
     }
 
     #b {
         height: 600px;
         line-height: 600px;   
-        width: 200px; 
         background-color: #80CED7;
     }
 
     #top_row p{
         height: 200px;
         line-height: 200px;
-        width: 380px;
+        /* width: 380px; */
+        width: 50%;
     }
 
     #bottom_row li {
         height: 250px;
         line-height: 250px;
-        width: 190px;
+        width: 25%;
     }
 
     #i {
         height: 150px;
         line-height: 150px;
-        width: 760px;
+        width: 80%;
         background-color: #263D42;
     }
 }

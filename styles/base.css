@@ -36,10 +36,17 @@ footer, header, hgroup, menu, nav, section {
     }
 }
 
-@media screen and (min-width: 768px)  {
+@media screen and (min-width: 768px) {
 body {
     width: 100%;
     margin: auto;
+    }
+}
+
+@media screen and (min-width: 960px) {
+    body {
+        width: 960px;
+        margin: auto;
     }
 }
 

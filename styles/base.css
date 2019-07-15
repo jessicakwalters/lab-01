@@ -49,9 +49,14 @@ footer, header, hgroup, menu, nav, section {
         margin: auto;
     }
 }
+body, section, div, main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 
 nav, aside, li, p, div, section {
-    float: left;
+    
     text-align: center;
 }
 

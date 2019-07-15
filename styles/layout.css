@@ -5,7 +5,9 @@
         width: 100%;
         background-color: #CCDBDC;
     }
-
+    main {
+        width: 100%;
+    }
     aside, section {
         width: 100%;
     }
